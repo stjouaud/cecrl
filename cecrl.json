@@ -1,0 +1,6848 @@
+{
+"Feuil1":[
+ {
+  "Mot": "4x4",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "à cause de",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "à ce moment-là",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à cloche-pied",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à condition que",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à côté de",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "à crédit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à deux pas",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à domicile",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à fond",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à grandes enjambées",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à grands pas",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à la bolognaise",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à la fin (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à la folie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à la mode",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à la sauce tomate",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à la vapeur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à la verticale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'angle de",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'arrière (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à l'avant de",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'avenir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'endroit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'envers",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'époque",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'exception de",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'extérieur (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à l'horizontale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'huile",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'instant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à l'intérieur (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à l'occasion",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à l'origine",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à l'ouest",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à notre époque",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à nouveau",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à option",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à partir de",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à petits pas",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à peu près",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à plat",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à point",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à portée de ",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à présent",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "à proximité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à quatre pattes",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à reculons",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à tout bout de champ",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à toute allure",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à venir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "à vol d'oiseau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abaisser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abandonner",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "abattu",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abbattement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abbaye",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abbé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abeille",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "abominable",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abondance",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abonnement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aboutir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aboyer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "abricot",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "abricotier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abriter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abscisse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "absent",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "absorber",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "abstrait",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accablé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accablement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accélération",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accélérer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accent",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "acceptabilité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "acceptable",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accepter",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "accès",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accessible",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accident",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "accident du travail",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accompagnateur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accompagner",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accord",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "accord (d')",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "accordéon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accordéoniste",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accorder",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accorder (s')",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accouchement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accoucher",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "accrochage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accrocher",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accroissement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accroître",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accroupi",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accroupir (s')",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accueil",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "accueillir quelqu'un",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "accuser (s')",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "achat",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "acheminement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "acheter",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "acheteur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "achever (s')",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "acide",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "acier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "acompte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "acquérir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "acquis sociaux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "acrylique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "acteur",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "actif",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "action",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "activité",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "activités",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "actualité",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "actuel",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "actuellement",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adaptation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adapté",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adapter",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "additif",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "addition",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "additionner",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adéquat",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adéquation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adhérence",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adhérent",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adhérer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adjectif",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "admettre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "administratif",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "administration",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "admiration",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "admirer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "admission",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "ADN",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adolescence",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adolescent  ",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "adopter",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adoption",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adoration",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adorer",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "adresse",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "adresse électronique",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "adresser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adresser (s')",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "adroit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adulte",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "adultère",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "adverbe",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "adversaire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aération",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aérogare",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aéroport",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "affaires (possessions)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "affaires (travail)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "affaires culturelles",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "affaires sociales",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "affection",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affectueux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affiche",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "affilié",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affilier (s')",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affirmation",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "affirmer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "affligé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affolé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affolement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affranchir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "affranchissement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "afin de",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "africain (adj+ n)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "Afrique",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "agacé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agacement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agacer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "âge",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "âgé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "agence",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "agence de presse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agence de voyage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "agence d'intérim",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agenda",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "agenouiller (s')",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agent de police",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "agent hospitalier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aggloméré",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agiter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agneau",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "agnostique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "agréable",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "agricole",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "agriculteur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "agriculture",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "aide",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "aide au logement",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aider",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "aide-soignant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aigle",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aigre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aigu",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aiguille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ail",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aile",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ailleurs",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aimable",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aimer",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "aimer (bien)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "aimer bien",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "aîné",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "ainsi",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "air",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "airbag",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aire de repos",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aisselle",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ajouter",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "alcool",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "alcootest",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "alerte",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "algèbre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "algébrique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aligné",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aligner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "alimentation",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "alimenter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "allée",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "allégé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "allemand",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "aller (bien\/mal) pour les vêtements",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aller (n.)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "aller (v.)",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "aller à la chasse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aller à la pêche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aller et venir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aller mieux",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "aller simple",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "allergie",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "allergique",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aller-retour",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "alliage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "allocation chômage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "allocation(s)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "allongé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "allongement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "allonger (s')",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "allumer",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "allumette",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "allure",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "alors ",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "alors que",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "alphabet",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "alpinisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "alpiniste",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "altitude",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aluminium",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amabilité",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "amande",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amandier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amateur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ambassade",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "ambiance",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "ambulance",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "améliorer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "amende",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "amener",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "amer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "américain (adj+n)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "Amérique",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "amertume",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ami",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "amiante",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amitié",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "amont (en -)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amour",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "amoureux",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "amphithéâtre",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "ample",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amplitude",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ampoule",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amusant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amuser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "amuser (s')",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "an",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "analogie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "analogique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "analogue",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "analyse ",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "analytique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ananas",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ancien",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "ancienneté",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anesthésie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "anesthésier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anesthésiste",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "angine",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anglais",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "angle",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "anglophone",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "angoisse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "angulaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "animal ",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "animateur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "animation",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "animer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "anneau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "année",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "année-lumière",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anniversaire",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "annonce",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "annoncer",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "annuaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "annuel",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "annuler (annulé)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "anorak",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antarctique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antérieur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antériorité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anti-",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antibiotique",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "antibrouillard ",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anticiper",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antidouleur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anti-inflammatoire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "antilope",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antipathie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antipathique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "Antiquité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antiseptique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "antitétanique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anus",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anxiété",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "anxieux",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aorte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "août",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "apatride",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "apercevoir",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "apéritif",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "apparaître",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "appareil photo",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "apparence",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "apparent",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "apparition",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "appartement",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "appartenance",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "appartenir ( à )",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "appel",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "appeler",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "appeler (s')",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "application",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "application (numérique)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "appliquer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "apporter",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "appréciation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "apprécié",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "apprécier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "appréhension",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "apprenant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "apprendre",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "apprenti",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "apprentissage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "apprivoiser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "approbation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "approche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "approcher",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "approcher (s')",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "approuver",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "approximativement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "appui",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "après",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "après que",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "après-demain",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "après-midi",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "apte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aptitude",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aquatique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arabophone",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "araignée",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arbitre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arbre",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "arbre fruitier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arc",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "archéologie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "archipel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "archives",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arctique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ardoise",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arête",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "argent",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "argenté",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "argile",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "argot",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arithmétique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "armée",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "armoire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "ARN",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aromate",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aromatique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aromatisé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arôme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arrestation",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arrêt de bus ",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "arrêt de travail",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arrêt maladie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arrêter",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "arrêter (s')",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "arrêter \/ reprendre (le travail)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arrière",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "arrière grand-père\/grand-mère",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arrière-petit-fils\/petite-fille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arrivant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arrivée",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "arriver",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "arriver à (réussir)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arrondissement",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "art",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "artère",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "artériel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "arthrose",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "artichaut",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "article",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "articuler",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "artisanat",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "artiste",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "ascendant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ascenseur",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "ascension",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "asiatique",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "Asiatique ",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "Asie",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "aspect",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aspirateur",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "aspirine",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "assaisonnement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assaisonner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assemblée",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "Assemblée nationale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assembler",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "asseoir (s')",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "assez",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "assez de",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assiette",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "assiette creuse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assiette du jour",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assis",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "assis (être -)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "assistance",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assister à",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "associatif",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "association",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "associé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "associer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "assombrir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assourdir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assourdissant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assumer (ses responsabilités)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assurance",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "assurance de base",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assurances",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assurances complémentaires",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assuré social",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "assurer (s')",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "asthmatique",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "asthme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "astre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "astronomie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "astucieux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "asymétrique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "atelier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "athée",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "athlète",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "athlétisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "atmosphère",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "atome",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "atomique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attaché (n)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attacher",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "attacher la ceinture (de sécurité)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attaquer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "atteindre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attendre",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "attendrissant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attendrissement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attendu",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attente",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attention (faire - )",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "attestation",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "attestation de soins",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attirer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attitude",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "attraction",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "attraper",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au bord (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au bout de ",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "au bout du compte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au cas où",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au centre (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au coin (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au commencement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au début (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au fond",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au fond de",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au gratin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au même moment",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au milieu",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "au moment où",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au passé",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au ralenti",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au sirop",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aube",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "auberge",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aucun",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "audace",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "audacieux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "au-dessous",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "au-dessous (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "au-dessus",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "au-dessus (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "audibilité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "audible",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "audience",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "audiovisuel",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "auditeur\/auditrice",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "audition",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "auditoire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "augmentation",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "augmentation de salaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "augmenter",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aujourd'hui",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "auparavant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "auscultation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ausculter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aussi",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "autant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "autant (que)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "auteur",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "auto",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "auto-",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "autobus\/bus",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "autocar",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "autocuiseur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "auto-école",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "automnal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "automne",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "automobile",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "autonome",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "autoradio",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "autorisé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "autoriser",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "autoritaire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "autorité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "autoroute",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "autour (de)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "autre",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "autre part",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "autrefois",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aux alentours",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aux environs de",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aux œufs",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aval",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avaler",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "avancé",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avance (être en - )",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "avancée",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avancer",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "avant",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "avant de",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avant que",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avantage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avantages en nature",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avant-bras",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avant-hier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avant-veille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avare",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avarice",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avec",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "avec (un) bon\/mauvais goût",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avec accusé de réception",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avenir",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "avenir professionnel",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avenue",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "averse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aveu",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "aveugle",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "aveugler",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avion",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "aviron",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avis",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avocat",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avoine",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avoir",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "avoir beau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avoir bon\/mauvais goût",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "avoir de la fièvre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avoir de l'avance\/du retard",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avoir de l'idée",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avoir des notions",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avoir du goût",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avoir du succès",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avoir la forme de",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "avoir la priorité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avoir lieu ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avoir mal",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "avoir pour conséquence",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "avoir un accident\/une panne",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avoir une odeur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avouer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "avril",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "axe",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "azote",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bâbord",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "baby-sitter",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "baccalauréat",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bachelor",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bacon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bactérie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bactérien",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bafouiller",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bagage",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bagage à main",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bagagiste",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "baguette",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "baie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "baignade",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "baigner (se)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "baignoire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bail",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bain",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "baisse",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "baissé",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "baisser",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "baisser (se)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "balade",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "balader (se)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "balai",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "balbutier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "balcon",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "baleine",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "balle",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "ballet",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ballon",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "ballon de foot",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "banal",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "banane",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bananier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bancaire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bande",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bande annonce",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bande d'arrêt d'urgence",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bande dessinée",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "banderole",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "banlieue",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "banlieusard",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "banque",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "banquet",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "banquette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bar",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "barbe",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "barbecue",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "barbu",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bariolé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "barman",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "barquette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "barre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "barrière de sécurité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bas (adj.)",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bas (adv.)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bas (n.)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bas-côté",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "base",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "basket-ball",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "baskets (chaussures)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "basset",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bassin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bataille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bataille navale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bâtard",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bateau",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bâtiment",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "batterie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "battre",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bavard",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bavardage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bavarder",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "beau",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "beaucoup",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "beau-fils",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "beaujolais",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "beau-père",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "beaux-parents",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bébé",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bégaiment",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bégayer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "beige",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "Belge",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "belle-fille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "belle-mère",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "belote",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bénéficiaire des soins",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bénéficier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bénévolat",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bénévole",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bénin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "benjamin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "benzine",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "béquille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "béret",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "berger",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "berne (en -)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "besoin (avoir - de)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bétail",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bête (adj.+n)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bêtise",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "béton",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bétonné",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "beurre",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "beurrer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bibliothécaire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bibliothèque",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "biceps",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "biche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bicyclette",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bien",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bien cuit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bien payé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bien portant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bien que",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bien-être",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bientôt",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bière",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bière au tonneau\/pression",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bière blonde\/brune",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bilan",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bile",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bilingue",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "billard",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "billet",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bimensuel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bio",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bio-",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "biologie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "biologique ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "biscuit",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bissectrice",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bistro",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bizarre",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bizarrement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bizarrerie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "blanc",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "blanc (n)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "blanche (viande)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "blanchir",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "blé",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "blessé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "blesser (se)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "blessure",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bleu",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bloc opératoire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "blog",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "blond",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "blondes (cigarettes)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bloquer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "blouson",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bœuf",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "boire",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bois (matière + forêt)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "boisé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boisson",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "boîte",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "boîte aux lettres",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "boîte postale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boiter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bol",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bon (adj.)",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "bon à rien",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bon marché",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bon sens",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bonbon",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bondé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bonne \/mauvaise humeur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bonnet",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bord  ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bord de mer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bordeaux",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "borgne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "borne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "botte(s)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bottines",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouc",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouche",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "boucher (n.)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "boucher (v.)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boucherie",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bouchon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouclé",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "boucler sa ceinture (de sécurité)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouddhisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouddhiste",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bouder",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boudin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouger",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bougie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bouillant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bouilli",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouillir",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bouillon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boulanger",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "boulangerie",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "boule ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bouleau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boules (jeu)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boulevard",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "boulversement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boulverser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bouquet",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bouquet (odeur)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bourg",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bourgogne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bourguignon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boursier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bousculer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bout",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bouteille",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bouteille d'eau",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "boutique",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bouton",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bowling",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boxe",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boxer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "boxeur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "branchement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brancher",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bras",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "brasserie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "brave",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brebis",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bref",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bretelles",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brevet de technicien supérieur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bricolage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bricoler",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bricoleur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bridge",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "brièvement",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "brillant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "brioche",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "briquet",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "briser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "broche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brochette",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "broderie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bronchite",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bronzage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bronze",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bronzé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bronzer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "brosse",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "brosse à dents",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "brosser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brosser (se - les dents)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "brouillard",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "brouiller (se)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brouillon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bru",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bruiner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bruit",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "brûlant",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "brûlé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "brûler (se)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "brûler un feu rouge",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brûlure",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "brûlure d'estomac",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brume",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brumeux ",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brun",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "brunes (cigarettes)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brunir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brusque",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brusquement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brusquer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "brut",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bruyant",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "buccal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "budget",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "buffet",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "buffle",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bulletin (de météo, de vote)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bulletin de salaire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bureau",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "bureau de chômage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bureau de poste",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bureau de tabac",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "bureau de vote",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "bureau d'embauche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bureau du personnel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "bus",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "buste",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "but",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "ça et là",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cabane",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cabaret",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cabillaud",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cabine",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cabinet de recrutement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cabinet médical",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cacahuète",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "caché",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cache-cache",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cachet",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "caddie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cadeau",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "cadences",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cadet",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cadran",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cadre",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cadre supérieur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cafard",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "café",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "café crème",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cafétéria",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "café-théâtre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cagibi",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cagoule",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cahier",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "caisse",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "caisse de retraite",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "Caisse d'épargne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "caisse-maladie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "caissier",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cake",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "calcaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "calcium",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "calcul",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "calculer",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "calme",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "calmer (se)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "calomnie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "calomnier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "calorie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "camarade",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "camaraderie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "camembert",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "camion",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "camionnette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "campagnard",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "campagne",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "camper",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "campeur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "camping",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "camping (faire du -)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "camping-car",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "campus",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "canal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "canapé",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "canard",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cancer",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cancéreux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cancérologie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cancérologue",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "candidat",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "candidature",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cane",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "caniche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "canne",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "canne à pêche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cannelle",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cantine",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "canton",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cantonal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "capable",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "capacité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "capitaine",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "capital",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "capitale",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "capitalisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "capot",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "caprice",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "capsule",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "car",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "caractère",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "caractéristique (adj+n.)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carafe",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carambolage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "caravane",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carburant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cardiaque",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cardinal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cardiologie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cardiologique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cardiologue",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "caricaturiste",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "caritatif",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carnet",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carnet de chèques",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carnet de mariage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carotte",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carré",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "carré (n.)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carrefour",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "carrière",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carrure",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cartable",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "carte",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "carte bancaire",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "carte de crédit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carte de paiement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carte de séjour",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carte d'identité",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carte grise",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carte hebdomadaire\/mensuelle",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carte postale",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "carte prépayée",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carte professionnelle médicale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "carte professionnelle pour étranger",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carte Vitale",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "carton",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cartonné",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cartouche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cas",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cascade",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "casier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "casino",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "casquette",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "casquette ",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cassable",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cassant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cassé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "casser",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "casser (se)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "casser la figure (se)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "casser les oreilles",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "casserole",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cataclysme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "catalogue",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "catamaran",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "catastrophe",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "catégorie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cathédrale",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "catholicisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "catholique",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cause",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cause (à - de )",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "causer ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cave ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "CD",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "CE1",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "CE2",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cécité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "céder",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ceinture",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cela",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "célèbre",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "célébrer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "céleri",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "célibat",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "célibataire",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cellule",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cendrier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "censure",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cent",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "centaine",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "centième",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "centilitre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "centime",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "centimètre",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "centimètre carré",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "central",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "centrale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "centre",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "centre aéré",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "centre commercial",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "centre d'accueil",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "centre d'apprentissage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "centre de formation",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "centre de sécurité sociale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "centre des impôts",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "centre d'intérêt ",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "centre-ville",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cependant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cercle",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "céréales",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cérébral",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cérémonie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cerf",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cerise",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cerisier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "certain (adj)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "certainement",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "certains (n)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "certificat",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "certificat de contrôle technique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "certificat de travail",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "certificat médical",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "certifier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "certitude",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cerveau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cervical",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ces jours-ci",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "c'est ",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "c'est pourquoi",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chagrin",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chagriné",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chagriner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chaîne",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chaîne (de montagne)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chaise",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "châlet",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chaleur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chambre",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "chambre des députés",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chambre d'étudiant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chambre d'hôte",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "champ",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "champagne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "champion",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "championnat",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "change",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "changeant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "changement  ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "changer",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "changer d'adresse",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chanson",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chanter",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "chanteur",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chapeau",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chaque",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "charcuterie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "charcutier",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "charge",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "charger",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "charges",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chariot",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chasse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chasser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chasseur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chat",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "châtaigne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "châtaignier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "châtain",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "château ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chaud",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "chauffage",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chauffer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chauffeur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chaussette",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chausson aux pommes",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chaussons",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chaussure",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "chauve",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chef (patron) (sauf Prim)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chef de cabine",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chef de service",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chef d'entreprise",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chef d'Etat",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chef d'orchestre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chef du personnel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chemin",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chemise",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "chemise de nuit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chemisier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chêne",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chenille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chèque",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chèque postal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chèque-voyage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chéquier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cher",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chercher",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chercher (-du\/un travail)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chercher à ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cheval",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cheveu",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "chèvre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chevreuil",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chiant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chic",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chicon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chien",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "chiffre",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chimie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chimique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chinois",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chips",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chirurgical",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chirurgie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chirurgien",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chlore",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "choc",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chocolat",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chœurs",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "choisir",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cholestérol",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chômage",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "chômeur",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chope",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "choquer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chorale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chorizo",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chose",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "chou",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "chouette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chou-fleur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chrétien",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "christianisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chromosome",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chronique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chrysanthème",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chuchoter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "chute",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cicatrice",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cigare",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cigarette",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cigogne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cil ",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "ciment",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cinéma",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "cinématographique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cinquantaine",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cinquième",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "circonférence",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "circuit",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "circulaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "circulation",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "circuler",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cirque",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "ciseaux",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "citadin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "citation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cité",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cité universitaire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "citer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "citoyen",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "citron",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "citronnier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clair",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "clairière",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clandestin",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "clarinette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clarinettiste",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clarté",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "classe",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "classé",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "classe politique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "classer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "classeur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "classification",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clavicule",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clavier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clé",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "clémentine",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "client",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "clientèle",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "clignotant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "climat",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "climat social",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "climatisation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clinique",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cloche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clore",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "clôture",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "club",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "CM1",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "CM2",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coach",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "coca",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cocher (v.)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cochon",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cocker",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cocotier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cocotte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "code  ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "code postal",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "coefficient",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coeur",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "coffre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cognac",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cognitif",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cognition",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coiffer (se)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "coiffeur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coin",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "coïncider",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "col",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "colère",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "coléreux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "colin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "colis",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "collaborateur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "collant (n.)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "colle (n.)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "collecte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "collectif (adj. et nom)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "collection",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "collectionner",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "collectivisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "collectivité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "collège (sauf PRrim)",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "collègue",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "coller",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "colline",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "colocataire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "colonne vertébrale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "colorant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "coloration",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coloré",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "colorer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "colorier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coloris",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coma",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "combien",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "combinaison",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "combiné",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "combiner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "combustion",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "comédien",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "comité d'entreprise",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "commander",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "comme",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "comme il faut",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "commencement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "commencer",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "commerçant",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "commerce",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "commercial",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "commissaire",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "commissaire de bord",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "commissaire de police",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "commissariat de police",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "commode",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "communal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "communautaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "communauté",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "commune (n)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "communication",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "communiquer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "communisme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "communiste",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "commutativité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "compagne",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "compagnon",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "comparatif",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "comparer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "compartiment",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "compétence",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "compétent ",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "compétition",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "complément",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "complet",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "complètement",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "compléter",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "compliqué",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "comportement",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "composante",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "composer (se)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "composition",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "composter",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "compréhension",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "comprendre",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "compresse",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "comprimé",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "compris",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "comptant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "compte",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "compte (bancaire)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "compte chèque postal (CCP)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "compte épargne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "compter",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "comptoir",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "comté",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "concéder",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concentration",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concentré",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concentrer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concept",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concepteur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conception",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conceptualiser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concerner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concert",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "concession",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concevoir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concierge",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conciliant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concilier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conclure",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conclusion",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "concours",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "concret",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "concubin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concubinage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "concurrent",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "condamnation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "condamner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "condiment",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "condition",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conditionnel",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conditions de travail",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conducteur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conduire",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "conduite",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cône",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "confection",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "confession",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "confiance",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "confiant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "confier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "confirmer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "confit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "confiture",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conflit",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conforme",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conformité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "confort",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "confortable",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "congé de maladie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "congelé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "congeler",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "congénital",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "congés",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conjoindre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conjointement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conjonction",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conjoncture",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conjugaison",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "connaissance",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "connaissance de l'environnement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "connaître",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "connecter (se)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "connexion",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conscience",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "consécutif à",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conseil",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "conseil fédéral",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conseil national",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conseiller",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conséquence",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conservateur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conserve",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "conserver",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "considérable",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "consigne",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "consistance",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "consoler",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "consommateur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "consommation",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "consommer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "constamment",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "constant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "constante",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "constater",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "consternation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "constituant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "constituer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "constitution",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "construire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "consulat",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "consultation",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "consulter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contact",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "contacter",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "contagieux",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "contagion",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contamination",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contemporain",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "contenance",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contenir",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "content",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "contenter (se)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contester ",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "continent",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "continental",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "continu",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "continuation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "continuel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "continuellement",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "continuer",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "continuité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contracter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrarié",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrarier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrariété",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrat",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "contrat à durée déterminée (CDD)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrat à durée indéterminée (CDI)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrat de droit privé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrat de travail",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "contravention",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "contre",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "contreplaqué",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contribuer",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contribution",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrôle",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "contrôle antipollution",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrôle d'identité",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "contrôle technique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "contrôler",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "contrôleur",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "convaincre",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "convalescence",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "convalescent",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "convenir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "convention",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "convenu",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "convergence",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "conversation",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "convexe",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coordonnées",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coordonner",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "copain\/copine",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "copie conforme",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "copier",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "copieux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "copine",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "copropriétaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "co-propriété",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coq",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "coq au vin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coqueluche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coquillages",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "coquille",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coquille Saint-Jacques",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coquillettes",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "corbeau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "corde(s)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "corn-flakes",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cornichon",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "corporel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "corps",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "corpulence",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "correct",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "correction",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "correspondance",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "correspondant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "correspondre",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "corriger",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "corriger (se)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cortège",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "costume",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "côte",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "côté",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "côté couloir\/fenêtre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "côté cour",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cote de popularité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "côté jardin",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coteau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "côtelette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coter",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "côtes-du-Rhône",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "côtier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cotisation",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cotisations sociales",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cotiser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coton",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "coton-tige",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cou",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "couche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couché",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "couché (être - )",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "coucher (se)",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "couchette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coude",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couette",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "couler",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couleur",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "couleuvre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coulisse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couloir",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "coup",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "coupable",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coupe",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couper",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "couper (se)",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "couper les cheveux (se faire)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couple",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "coupon",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coupure",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cour",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "courage",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "courageux",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "couramment",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "courant",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "courbe",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "courbé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "courber (se)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "coureur",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "courir",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "courriel",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "courrier",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "courrier électronique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cours",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "cours de dessin",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "cours élémentaire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cours moyen",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cours préparatoire",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "course",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "course à pied",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "courses (faire des - )",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "courses (faire les -)",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "court",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "court métrage",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couscous",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cousin",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "coût",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "couteau",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "coûter",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "couture",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couvent",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couvert",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couverts",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "couverture",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "couverture sociale",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "covoiturage",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "crabe",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "craie",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "craindre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crainte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "craintif",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crâne",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crânien",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crayon",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "crayons de couleur",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "créatif",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "création",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "créativité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crèche",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "crédits",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "créer",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "crème",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "crème à raser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crème fraîche",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crémerie",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "crémeux",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crémier",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crêpes",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "crépu",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crépuscule",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crever",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crevettes",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cri",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "crier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "crise",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cristal",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cristalliser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "critère",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "critiquer",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "crocodile",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "croire",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "croisé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "croisement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "croisière",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "croissance",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "croissant",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "croître",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "croix",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "croyance",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "croyant",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cru",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cruauté",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crucial",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cruel",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "crustacé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cube",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cube (mètre cube)",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cubique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cueillette",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cueillir",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cuillère",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cuillerée",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cuir",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cuire",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cuisine",
+  "Niveau": "A1.1"
+ },
+ {
+  "Mot": "cuisiner",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "cuisinier",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cuisinière",
+  "Niveau": "A1"
+ },
+ {
+  "Mot": "cuisse",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cuisson",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cuit",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cuit (bien)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "cuit à l'eau",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cuivre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cuivré",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cul",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "culotte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "culpabiliser",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "culpabilité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "culte",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cultiver",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "culture",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "culture\/ culturel",
+  "Niveau": "A2"
+ },
+ {
+  "Mot": "curé",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "curieusement",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "curieux",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "curiosité",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "curriculum vitae (CV)",
+  "Niveau": "B1"
+ },
+ {
+  "Mot": "curry",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cybersécurité",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cycle",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cylindre",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cylindrique",
+  "Niveau": "B2"
+ },
+ {
+  "Mot": "cyprès",
+  "Niveau": "B2"
+ }
+]
+}
